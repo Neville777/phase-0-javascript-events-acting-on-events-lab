@@ -43,7 +43,7 @@ piece, the dodger. Now open DevTools and click on the Elements tab. You'll see
 that the game field is a `<div>` with an `id` of "game." Expand that `div` and
 you'll see that the game piece is a second, nested `<div>` with an `id` of
 "dodger."
-
+ 
 Click on the game `div` and take a look at its CSS in the styles tab. You'll see
 that the game field has a height and width of 400px. Now click on the dodger and
 note that it has a height of 20px and a width of 40px. Finally, take a look at
